@@ -33,6 +33,9 @@ int main() {
 			i = std::rand() % 73;
 			std::cout << pwchars[i];
 		}
+		
+		int enter;
+		std::cin >> enter;
 	}
 
 	else {
