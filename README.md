@@ -1,3 +1,3 @@
 # pwdgen
 
-simple pwd gen, compile with C++ 17.
+simple password generator module, compile with C++ 17.
